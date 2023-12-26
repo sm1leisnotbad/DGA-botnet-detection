@@ -1,5 +1,5 @@
 # DGA-botnet-detection
-Paper: [tile](https://www.sciencedirect.com/science/article/pii/S1319157822000726)
+Paper: [DGA-based botnets detection using DNS traffic mining](https://www.sciencedirect.com/science/article/pii/S1319157822000726)
 Author: Ahmed M. Manasraha, Thair Khdourc, Raeda Freehat
 
 ## Introduction
