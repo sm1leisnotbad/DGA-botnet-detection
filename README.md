@@ -1,6 +1,4 @@
 # DGA-botnet-detection
-Paper: [DGA-based botnets detection using DNS traffic mining](https://www.sciencedirect.com/science/article/pii/S1319157822000726)
-Author: Ahmed M. Manasraha, Thair Khdourc, Raeda Freehat
 
 ## Introduction
 Botnet is a network of infected wokstations that are remotely managed by BotMaster via the command and control (C&C) server. Botnets are the source of a variety of malicious behaviors such as information theft, phishing, and DDOS assaults. 
